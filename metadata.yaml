@@ -1,7 +1,4 @@
-name: no_image_ai
-display_name: 禁止图片进入AI
-author: mooncat
-description: 阻止图片消息发送给AI模型
+name: astrbot_plugin_ignore_pure_image
+desc: 纯图片消息不回复
 version: 1.0.0
-repo: https://github.com/
-astrbot_version: ">=4.0.0"
+author: local
